@@ -1,7 +1,7 @@
 version: 1.0
 provider:
   name: openfaas
-  gateway: http://10.20.14.93:8080
+  gateway: http://127.0.0.1:8080
 functions:
   show-html:
     lang: python3
